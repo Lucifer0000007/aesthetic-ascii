@@ -27,7 +27,7 @@ Built with React, Three.js, and custom GLSL shaders — runs entirely on the GPU
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/aesthetic-ascii.git
+git clone https://github.com/Lucifer0000007/aesthetic-ascii.git
 cd aesthetic-ascii
 
 # Install dependencies
